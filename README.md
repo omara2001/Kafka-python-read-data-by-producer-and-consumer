@@ -31,7 +31,8 @@ Step 4: Create a Kafka Topic
 bin/kafka-topics.sh --create --topic test_topic --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
 
 
-![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/36524c0e-5f39-4b4c-9d3c-796d0b264bb8)
+![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/f70b69fc-891f-4d57-b95d-f22e7a190ddc)
+
 
 
 
