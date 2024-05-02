@@ -51,7 +51,8 @@ Step 6: Write Consumer Code
 
 Step 7: Write Producer Code
 
-![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/7ce169f0-d16f-4266-8672-a9b110c859a3)
+![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/4b2c98ff-091e-44bd-a485-1315310a505c)
+
 
 
 Step 8: Run the Consumer and Producer
