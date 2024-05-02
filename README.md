@@ -57,7 +57,8 @@ Step 8: Run the Consumer and Producer
 
 ![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/e6136573-eb3b-49be-93db-7acdc3b1122b)
 ![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/49dc7c37-76d7-426f-98fb-779de08c6e7e)
-![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/326d75b3-f3b9-4ed0-9b25-1610f0280ad9)
+![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/c32908d0-5e1c-4424-9df2-8b6e81e8c6d3)
+
 ![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/f65b8f7b-3030-4d5a-bb46-b90cdbabbfc3)
 
 
