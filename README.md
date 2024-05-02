@@ -50,15 +50,19 @@ Step 6: Write Consumer Code
 
 ![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/b23033ef-2b14-444d-90e9-33702c93d38f)
 
+Step 7: Write data Code
+This python code allows to perfom the fake data for the fake name and fake address and fake year that created at for the registered users
+
+![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/3d83e0c2-9fe2-406e-a886-0c9e04925b9b)
 
 
-Step 7: Write Producer Code
+Step 8: Write Producer Code
 
 ![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/4b2c98ff-091e-44bd-a485-1315310a505c)
 
 
 
-Step 8: Run the Consumer and Producer
+Step 9: Run the Consumer and Producer
 
 ![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/e6136573-eb3b-49be-93db-7acdc3b1122b)
 ![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/49dc7c37-76d7-426f-98fb-779de08c6e7e)
