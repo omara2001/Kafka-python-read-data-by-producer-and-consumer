@@ -24,7 +24,8 @@ bin/zookeeper-server-start.sh config/zookeeper.properties
 Step 3: Start Kafka Broker
 bin/kafka-server-start.sh config/server.properties
 
-![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/58bf55d3-7164-4c4c-9330-ada9eeda347d)
+![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/dd94b74a-da9b-436d-80c8-17e7c1d124cf)
+
 
 
 Step 4: Create a Kafka Topic
