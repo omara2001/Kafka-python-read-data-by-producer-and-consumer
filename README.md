@@ -17,7 +17,8 @@ cd kafka_2.13-3.4.0
 Step 2: Start ZooKeeper
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
-![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/68788d43-9e7d-4be4-9a8f-9567f42621bf)
+![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/3a820b2d-3e4c-4d0e-ad48-864e0d27a982)
+
 
 
 Step 3: Start Kafka Broker
