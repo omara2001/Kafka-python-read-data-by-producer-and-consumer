@@ -45,7 +45,8 @@ Step 5: Install Kafka Python Library
 
 Step 6: Write Consumer Code
 
-![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/d703bdfa-00c5-45bc-a84c-45975f2eec3c)
+![image](https://github.com/omara2001/Kafka-python-read-data-by-producer-and-consumer/assets/66154169/b23033ef-2b14-444d-90e9-33702c93d38f)
+
 
 
 Step 7: Write Producer Code
